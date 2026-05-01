@@ -2,7 +2,7 @@
 
 
 HOOK
-- hook_document.pdf - One-page mission document for students
+- hook_document.pdf - One-page mission document 
 
 RUBRIC
 - rubric.pdf - Detailed assignment expectations
@@ -18,8 +18,9 @@ OUTPUT
 - OutputP2.pdf - Visualizations and model results
 
 MATERIALS
-- intro_time_series_article.pdf
-- lstm_article.pdf
+- Amazon-stock-LSTM.pdf
+- blog.pdf
+- prediction-of-amazons-stock-price-based-on-arima-xgboost-and-2r29rv58.pdf
 
 REFERENCES
 - references.pdf
