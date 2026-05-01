@@ -15,7 +15,7 @@ CODE
 - official_amazon.ipynb - Code for exploratory plots and models
 
 OUTPUT
-- Output.pdf - Visualizations and model results
+- OutputP2.pdf - Visualizations and model results
 
 MATERIALS
 - intro_time_series_article.pdf
